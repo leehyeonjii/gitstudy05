@@ -1,2 +1,1 @@
-# gitstudy05
-20232012 이현지
+# This is a base for HW03
